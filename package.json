@@ -1,0 +1,18 @@
+{
+  "name": "atom-which-index",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [
+    "atom",
+    "tabs",
+    "rename",
+    "title"
+  ],
+  "author": "Brian Kemper <Kemper10@gmail.com>",
+  "repository": "https://github.com/bkemper/atom-which-index.git",
+  "main": "./lib/which-index.js",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
